@@ -3,7 +3,8 @@
 
 
   <p align="left">  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukun-Aaron&theme=react&line_height=40&hide=css"/> </a></p>
-- 🔭 I’m currently working on [Pest detection model](https://github.com/Rukun-Aaron/Pest_classification.git)
+  
+- 🔭 I’m currently working on [Pest detection model](https://github.com/Rukun-Aaron/Pest_classification)
 
 - 🌱 I’m currently learning **Tensorflow, C# and Javascript**
 
