@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rukun</h1>
 <h3 align="center">A passionate CS student passionate about Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukun-aaron" alt="rukun-aaron" /></a> </p>
-
+[Comment]: # <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukun-aaron" alt="rukun-aaron" /></a> </p>
+  <p align="left">  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a></p>
 - 🔭 I’m currently working on [Pest detection model](https://github.com/Rukun-Aaron/Pest_classification.git)
 
 - 🌱 I’m currently learning **Tensorflow, C# and Javascript**
